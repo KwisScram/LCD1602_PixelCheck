@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;svg width=&quot;8.46667mm&quot; height=&quot;8.74889mm&quot;&#13;&#10; viewBox=&quot;0 0 30 31&quot;&#13;&#10; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;  version=&quot;1.2&quot; baseProfile=&quot;tiny&quot;&gt;&#13;&#10;&lt;title&gt;Fritzing Custom Icon&lt;/title&gt;&#13;&#10;&lt;desc&gt;Generated with Qt&lt;/desc&gt;&#13;&#10;&lt;defs&gt;&#13;&#10;&lt;/defs&gt;&#13;&#10;&lt;g fill=&quot;none&quot; stroke=&quot;black&quot; stroke-width=&quot;1&quot; fill-rule=&quot;evenodd&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;bevel&quot; &gt;&#13;&#10;&#13;&#10;&lt;image x=&quot;0&quot; y=&quot;0&quot; width=&quot;30&quot; height=&quot;31&quot; preserveAspectRatio=&quot;none&quot; xlink:href=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAMAAADHso01AAAAKlBMVEUAAACyMCWyMCWyMCWyMCWyMCWyMCWyMCWyMCWyMCWyMCWyMCWyMCX///8TrXlEAAAADHRSTlMAIL+fUEDfz4Bg7xDrAx85AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWElEQVQokd2RQRLAIAgDVbS1mv+/11NbAZ3c3esOAyEhHE9ML7LSgo/sbfktLq/vSaNa+8wWLWrbm9Iw11UYigplLdIm1GqcTJPd7HKSm32N/Zw0xvo+jAG5XQp/KqDemwAAAABJRU5ErkJggg==&quot; /&gt;&#13;&#10;&lt;/g&gt;&#13;&#10;&lt;/svg&gt;&#13;&#10;">
+    <title>LCD1602_PixelCheck</title>
+    <instances>
+        <instance moduleIdRef="LCD-GDM1602K" modelIndex="85522685" path="C:/Program Files/Fritzing/fritzing-parts/core/lcd-GDM1602K.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Nano3(fix)" modelIndex="85522686" path="C:/Program Files/Fritzing/fritzing-parts/core/Arduino Nano3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4244TPM6MMPotentiometerModuleID" modelIndex="85522688" path="C:/Program Files/Fritzing/fritzing-parts/core/pot_trimmer_6mm.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
